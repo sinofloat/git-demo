@@ -1,0 +1,1 @@
+function add(){for(var r=[1,2,3,4,5],a=0;a<r.length;a++)summary+=r[a]}function show(r){var a=r.getDay();return a}var summary=0,timer=new Date;
